@@ -1,4 +1,4 @@
-
+const Spiderman=require('./../app/spiderman')
 describe("Unit Test for Spiderman Class", () => {
     test('1) Create an spiderman object', () => {
       const andrewgarfield = new Spiderman('Spiderman Sony',31,'Andrew Garfield',2, 'Sony')
